@@ -1,7 +1,12 @@
 # 开发环境
 
+- 课件下载地址
+  - 链接：https://pan.baidu.com/s/14tSheWRNdPKesMM4Rgxu4Q?pwd=2czd 
+  - 提取码：2czd
+
 - github:
     - git安装与初始化
+      - 操作参考：https://note.youdao.com/s/KXGBGt8D
     - 学习记录/作业提交
     - 项目地址：https://github.com/rf-cyber/SXLNLP.git
 - gpu使用
